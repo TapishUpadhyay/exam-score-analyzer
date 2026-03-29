@@ -66,4 +66,5 @@ python app.py
 
 ## Author
 
-**Your Name** | Roll No: XXXXXXXX | Your Institution
+TAPISH UPADHYAY | 25BCE10583 | VIT BHOPAL UNIVERSITY 
+
