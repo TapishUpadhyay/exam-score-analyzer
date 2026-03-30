@@ -6,34 +6,13 @@ A Data Science project that analyzes student exam scores, clusters students into
 
 ## Project Structure
 
-```
 exam-score-analyzer/
-├── data/                        # Auto-generated data & plots
-├── model/                       # Saved K-Means model & scaler
-├── Project_Report.pdf           # Full project report
-├── README.md
-├── analysis.py                  # Full pipeline (data → EDA → clustering → feedback)
-└── app.py                       # Interactive student lookup app
-```
-
----
-
-## Setup
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/exam-score-analyzer.git
-cd exam-score-analyzer
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# 3. Run the analysis pipeline
-python analysis.py
-
-# 4. Launch the interactive app
-python app.py
-```
+data/
+model/                       
+Project_Report.pdf
+README.md
+analysis.py                  
+app.py                       
 
 ---
 
@@ -55,16 +34,12 @@ python app.py
 
 ## Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| Python 3.10+ | Core language |
-| pandas & numpy | Data handling |
-| matplotlib & seaborn | Visualizations |
-| scikit-learn | K-Means clustering |
+ Tool                     Purpose 
+Python 3.10+              Core language 
+pandas & numpy            Data handling 
+matplotlib & seaborn      Visualizations 
+scikit-learn              K-Means clustering 
 
 ---
-
-## Author
-
 TAPISH UPADHYAY | 25BCE10583 | VIT BHOPAL UNIVERSITY 
 
